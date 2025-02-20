@@ -44,7 +44,7 @@ theme:
         name: Cambiar a modo día
   # Tipo de letra de texto y código
   font:
-    text: Architects Daughter
+    text: Exo 2
     code: Roboto Mono
   # Logo de la barra de navegación superior (en subcarpeta "docs")
   logo: "images/logo.png"
