@@ -20,6 +20,23 @@
     z-index: 10;
 }
 
+.panel
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.caja
+{
+    padding: 10px;
+    margin: 10px;    
+    text-align: center;
+    flex: 1;
+    min-width: 250px;
+}
+
 /* Características especiales para impresión */
 @media print
 {

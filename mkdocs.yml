@@ -17,7 +17,8 @@ use_directory_urls: false
 # Menú de navegación (izquierda)
 nav:
   - Inicio: index.md
-  - Pre-proceso: 
+  - Preproducción: 
+    - Introducción: preproduccion.md
     - Inkscape: 
       - Primeros pasos: inkscape_01.md
     - Piskel: 
