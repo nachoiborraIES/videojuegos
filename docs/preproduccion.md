@@ -1,11 +1,13 @@
 # Preproducción
 
-El desarrollo de videojuegos es un proceso complejo que implica varias etapas, desde la concepción de la idea hasta la publicación y el mantenimiento del juego. La primera fase es la **preproducción**, en la que se define el concepto, la historia, el estilo artístico y el objetivo del juego. También se puede realizar un análisis de mercado para identificar el público objetivo y se elabora un boceto inicial que sirva de base para el desarrollo. Es crucial en esta etapa establecer un plan de trabajo y definir las herramientas y tecnologías que se utilizarán.
+El desarrollo de videojuegos es un proceso complejo que implica varias etapas, desde la concepción de la idea hasta la publicación y el mantenimiento del juego. En la fase de **preproducción** se define el concepto, la historia, el estilo artístico y el objetivo del juego. También se puede realizar un análisis de mercado para identificar el público objetivo y se elabora un boceto inicial que sirva de base para el desarrollo. Es crucial en esta etapa establecer un plan de trabajo y definir las herramientas y tecnologías que se utilizarán.
 
-En concreto, las tareas a realizar en esta etapa se pueden dividir en dos grandes grupos:
+Aquí tienes una presentación que explica las principales tareas que abarca esta preproducción:
 
-* Documentos acerca del videojuego
-* Diseños del videojuego
+<div align="center">
+    <iframe src="https://1drv.ms/p/c/6714ddaf890d0c0f/IQQRywJNATT2Rpc9HIpCdwZtAVbScSX-y6NUKbV9Zv-nBSI?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0"></iframe>
+</div>
+
 
 ## Documentos del videojuego
 
@@ -34,7 +36,7 @@ En este caso podemos optar por dos tipos de estrategias:
     <p><em>Imagen diseñada con pixel-art</em></p>
 </div>
 
-A lo largo de los siguientes subapartados de esta sección se explican algunas herramientas para definir diseños de uno y otro tipo. En concreto, hablaremos de las siguientes.
+A lo largo de los siguientes subapartados de esta sección se explican algunas herramientas para definir diseños de uno y otro tipo.
 
 <div class="panel">
     <div class="caja">
