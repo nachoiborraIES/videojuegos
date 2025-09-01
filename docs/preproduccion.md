@@ -5,9 +5,11 @@ El desarrollo de videojuegos es un proceso complejo que implica varias etapas, d
 Aquí tienes una presentación que explica las principales tareas que abarca esta preproducción:
 
 <div align="center">
-    <iframe src="https://1drv.ms/p/c/6714ddaf890d0c0f/IQQRywJNATT2Rpc9HIpCdwZtAVbScSX-y6NUKbV9Zv-nBSI?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0"></iframe>
+    <iframe src="pdf/03 - Preproduccion.pdf" width="476px" height="288px" frameborder="0"></iframe>
+    <p><a href="pdf/03 - Preproduccion.pdf" target="_blank">
+        Ver en pantalla completa
+    </a></p>
 </div>
-
 
 ## Documentos del videojuego
 

@@ -5,8 +5,8 @@ En esta web se recogen una serie de apuntes sobre desarrollo de videojuegos, que
 Aquí tienes unas diapositivas que te explican la evolución de los videojuegos desde los primeros que se hicieron, y qué etapas abarca el desarrollo de un videojuego:
 
 <div align="center">
-    <iframe src="pdf/01 - Intro desarrollo videojuegos.pdf" width="476px" height="288px" frameborder="0"></iframe>
-    <p><a href="pdf/01 - Intro desarrollo videojuegos.pdf" target="_blank">
+    <iframe src="pdf/02 - Introduccion.pdf" width="476px" height="288px" frameborder="0"></iframe>
+    <p><a href="pdf/02 - Introduccion.pdf" target="_blank">
         Ver en pantalla completa
     </a></p>
 </div>
