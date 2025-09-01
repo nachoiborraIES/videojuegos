@@ -5,7 +5,10 @@ En esta web se recogen una serie de apuntes sobre desarrollo de videojuegos, que
 Aquí tienes unas diapositivas que te explican la evolución de los videojuegos desde los primeros que se hicieron, y qué etapas abarca el desarrollo de un videojuego:
 
 <div align="center">
-    <iframe src="https://1drv.ms/p/c/6714ddaf890d0c0f/IQQumKa3U3I9SLp7fIKC2SfAAeY7ddLVhNU5-urtz0P80ys?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0"></iframe>
+    <iframe src="pdf/01 - Intro desarrollo videojuegos.pdf" width="476px" height="288px" frameborder="0"></iframe>
+    <p><a href="pdf/01 - Intro desarrollo videojuegos.pdf" target="_blank">
+        Ver en pantalla completa
+    </a></p>
 </div>
 
 En la sección de **Preproducción** encontrarás información sobre la primera etapa en el desarrollo de videojuegos: elaborar un guión con la idea general del juego y diseñar personajes, escenarios, objetos, etc, utilizando diversas herramientas.
