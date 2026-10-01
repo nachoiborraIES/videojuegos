@@ -23,6 +23,9 @@ nav:
       - Primeros pasos: inkscape_01.md
     - Piskel: 
       - Primeros pasos: piskel_01.md
+  - Desarrollo:
+    - Godot:
+      - Primeros pasos: godot_01.md
 
 # Tema CSS
 theme:
